@@ -1,8 +1,10 @@
 body, h1 {
 	background-color: #285402;
-	color: #778c49;
+	color: #aacf59;
 }
 
 .imgContainer {
+	padding-top: 15%;
 	text-align: center;
+	display:  block;
 }
