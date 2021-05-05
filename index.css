@@ -1,4 +1,8 @@
-body {
+body, h1 {
 	background-color: #285402;
 	color: #778c49;
+}
+
+.imgContainer {
+	text-align: center;
 }
